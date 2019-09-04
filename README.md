@@ -6,3 +6,5 @@ Feel free to submit your Tagalog translation work, suggestion such as wrong gram
 For any translation work to be considered, you need to qualify with our translators requirements found here: https://malayangbiblia.wixsite.com/free/join-the-team 
 Also check our translations work flow process found here: https://www.xmind.net/m/XvxN/
 For other inquiries please contact us at malayangbiblia@gmail.com
+
+Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Permissions beyond the scope of this license may be available at https://malayangbiblia.wixsite.com/free.
