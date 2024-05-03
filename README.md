@@ -6,4 +6,5 @@ Feel free to submit your Tagalog translation work, suggestion such as wrong gram
 Also check our translations work flow process found here: http://www.xmind.net/m/65GpbK
 For other inquiries please contact us at malayangbiblia@gmail.com
 
-Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Permissions beyond the scope of this license may be available at malayangbiblia@gmail.com
+Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License -->> https://creativecommons.org/licenses/by-sa/4.0/
+Permissions beyond the scope of this license may be available at malayangbiblia@gmail.com
