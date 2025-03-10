@@ -10,13 +10,15 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 
 <li>Every Greek parsing from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.</li>
 
-<li>The only Tagalog Bible that Includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword (https://mysword.info/) for Android or theWord (https://www.theword.net/) for PC.</li>
+<li>AMB has an option that includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword (https://mysword.info/) for Android or theWord (https://www.theword.net/) for PC.</li>
 
 <li>Words of Jesus in red.</li>
 
 <li>Pronouns referring to God or Christ, and words refering to spiritual concepts (i.e., Ang Batas, Buhay, Kamatayan, Araw ng Pamamahinga, Lublob ng Pagsisisi etc.) which otherwise could not be understood in their proper context, have their initial letters in CAPS.</li>
 
 <li>Places in the Bible are translated in English not Tagalog for practical and educational purposes. In order that the student of the word can learn more about a place in the Scriptures by the use of existing Bible dictionaries or Bible Maps which are widely published in the English language.</li>
+
+<li>AMB faithfully translates into Tagalog all transliterated words (except for proper names) that often hides the meaning of the word. Transliteration is the practice in translation where a word from the source text is translated to another language in such a way as to make the newly translated word sound very similar to the original word. Examples: Πέτρος (means rock) sounds like "Petros", and the English transliteration is Peter, in Tagalog, Pedro; but the true Tagalog word is "Bato." Another one is βάπτισμα (means "immersion") which sounds like "baptisma", and the transliteration in English is "Baptism," in Tagalog, "Bautismo." But to translate this faithfully, it should say, "lublob."</li>
 
 <h3>Credits to:</h3>
 <ol>
@@ -25,9 +27,7 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 <li>Steve Sweigart, Jon Graef, Jonathan Koehn and theWord community for formatting and providing bible texts and books without which this work of translation would be virtually impossible.</li>
 
 
-Also check our translations work flow process found here: http://www.xmind.net/m/65GpbK
-For other inquiries please contact us at malayangbiblia@gmail.com
-
-Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)
-
-Permissions beyond the scope of this license may be available at malayangbiblia@gmail.com
+<p>Also check our translations work flow process found here: http://www.xmind.net/m/65GpbK</p>
+<p>For other inquiries please contact us at malayangbiblia@gmail.com</p>
+<p>Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)</p>
+<p>Permissions beyond the scope of this license may be available at malayangbiblia@gmail.com</p>
