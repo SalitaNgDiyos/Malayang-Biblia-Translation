@@ -10,7 +10,7 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 
 <li>Every Greek parsing from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.</li>
 
-<li>The only Tagalog Bible that Includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword for Android or theWord for PC.</li>
+<li>The only Tagalog Bible that Includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword (https://mysword.info/) for Android or theWord (https://www.theword.net/) for PC.</li>
 
 <li>Words of Jesus in red.</li>
 
