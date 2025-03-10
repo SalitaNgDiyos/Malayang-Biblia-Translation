@@ -1,7 +1,29 @@
-General Info about this Repo
+AMB started in 2017 whose vision is to provide a fresh Tagalog translation of the Bible that is accessible to all Bible loving Filipinos. This translation aims to reach not just the casual reader, but also serious students of the Word who would rather use the more popular English Bibles over a Filipino translation. Through the work of well known linguistic, biblical scholars and excellent developers, we are able to produce a Tagalog Bible translation that is faithfully translated from the Traditional Greek Text.
 
-Files uploaded here are the final draft of the new Tagalog translation per chapter of the Bible. 
-Feel free to submit your Tagalog translation work, suggestion such as wrong grammar, typo errors, or better word, phrase and sentence structure by creating your own Github account and clicking the edit or pencil button at the top right corner of every opened text file. All suggestions will be considered, denied or approved. Issues/Questions are also welcomed under the main "Issues" tab. To get the update from theWord and MySword apps please proceed to the "Releases" tab at the top and download the modules there.
+ Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://github.com/openbibles/Malayang-Biblia-Translation. Permissions beyond the scope of this license may be obtained by contacting this email: malayangbiblia@gmail.com
+
+<h3>AMB Features:</h3>
+<ol>
+<li>The only New Testament Tagalog Translation that is mostly based on the traditional Text, or Textus Receptus, taken from the Byzantine/Majority Text Family, which is universally used by the Church from the 2nd till the early 19th century AD, and is the text used by the King James Bible translators in 1611. The rest of the Filipino translations rely heavily on codices Siniaticus, Alexandrian, and Vaticanus.</li>
+
+<li>Every Greek word including its grammatical function (except geographical names) is translated into Tagalog as literal as possible, faithfully following the Greek sentences and expressions, while maintaining their modern equivalent in Tagalog.</li>
+
+<li>Every Greek parsing from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.</li>
+
+<li>The only Tagalog Bible that Includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword for Android or theWord for PC.</li>
+
+<li>Words of Jesus in red.</li>
+
+<li>Pronouns referring to God or Christ, and words refering to spiritual concepts (i.e., Ang Batas, Buhay, Kamatayan, Araw ng Pamamahinga, Lublob ng Pagsisisi etc.) which otherwise could not be understood in their proper context, have their initial letters in CAPS.</li>
+
+<li>Places in the Bible are translated in English not Tagalog for practical and educational purposes. In order that the student of the word can learn more about a place in the Scriptures by the use of existing Bible dictionaries or Bible Maps which are widely published in the English language.</li>
+
+<h3>Credits to:</h3>
+<ol>
+<li>Costas Sergiou, for providing the world with TheWord software free of charge.</li>
+<li>Rubio Terra, for providing the iBiblia software and buiding it according to translators needs.</li>
+<li>Steve Sweigart, Jon Graef, Jonathan Koehn and theWord community for formatting and providing bible texts and books without which this work of translation would be virtually impossible.</li>
+
 
 Also check our translations work flow process found here: http://www.xmind.net/m/65GpbK
 For other inquiries please contact us at malayangbiblia@gmail.com
