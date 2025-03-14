@@ -20,6 +20,8 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 
 <li>AMB faithfully translates into Tagalog all transliterated words (except for proper names) that often hides the meaning of the word. Transliteration is the practice in translation where a word from the source text is translated to another language in such a way as to make the newly translated word sound very similar to the original word. Examples: Πέτρος (means rock) sounds like "Petros", and the English transliteration is Peter, in Tagalog, Pedro; but the true Tagalog word is "Bato." Another one is βάπτισμα (means "immersion") which sounds like "baptisma", and the transliteration in English is "Baptism," in Tagalog, "Bautismo." But to translate this faithfully, it should say, "lublob."</li>
 
+<li>AMB uses words that shows respect for elders or people in authority just like what a normal Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."<li>
+ 
 <h3>Credits to:</h3>
 <ol>
 <li>Costas Sergiou, for providing the world with TheWord software free of charge.</li>
