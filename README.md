@@ -6,8 +6,6 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 <ol>
 <li>The only New Testament Tagalog Translation that is mostly based on the traditional Text, or Textus Receptus, taken from the Byzantine/Majority Text Family, which is universally used by the Church from the 2nd till the early 19th century AD, and is the text used by the King James Bible translators in 1611. The rest of the Filipino translations rely heavily on codices Siniaticus, Alexandrian, and Vaticanus.</li><br>
 
-<li>Every Greek word including its grammatical function (except geographical names) is translated into Tagalog as literal as possible, faithfully following the Greek sentences and expressions, while maintaining their modern equivalent in Tagalog.</li><br>
-
 <li>Every Greek parsing from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.</li><br>
 
 <li>AMB has an option that includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword (https://mysword.info/) for Android or theWord (https://www.theword.net/) for PC.</li><br>
@@ -19,6 +17,8 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 <li>Places in the Bible are translated in English not Tagalog for practical and educational purposes. In order that the student of the word can learn more about a place in the Scriptures by the use of existing Bible dictionaries or Bible Maps which are widely published in the English language.</li><br>
 
 <li>AMB faithfully translates into Tagalog all transliterated words (except for proper names) that often hides the meaning of the word. Transliteration is the practice in translation where a word from the source text is translated to another language in such a way as to make the newly translated word sound very similar to the original word. Examples: Πέτρος (means rock) sounds like "Petros", and the English transliteration is Peter, in Tagalog, Pedro; but the true Tagalog word is "Bato." Another one is βάπτισμα (means "immersion") which sounds like "baptisma", and the transliteration in English is "Baptism," in Tagalog, "Bautismo." But to translate this faithfully, it should say, "lublob."</li><br>
+
+<li>Just like how the Koine Greek in Biblical times was used as the language of the masses, AMB uses the same approach to its translation by making its language like the language of the common people meaning, more conversational and modern. One concrete example is by removing a letter in the word "ninyo" (2nd person plural pronoun) and make it "niyo." </li><br>
 
 <li>AMB uses words that show respect for elders or people in authority just like what a good Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."</li>
 
