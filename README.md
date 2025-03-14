@@ -20,7 +20,7 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 
 <li>Just like how the Koine Greek in Biblical times was used as the language of the masses, AMB uses the same approach to its translation by making its language like the language of the common people meaning, more conversational and modern. One concrete example is by removing a letter in the word "ninyo" (2nd person plural pronoun) and make it "niyo." </li><br>
 
-<li>AMB uses words that show respect for elders or people in authority just like what a good Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."</li>
+<li>AMB uses words that show respect for elders or people in authority just like what a good Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person pronoun and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."</li>
 
  <br>
 <h3>Special Thanks to:</h3>
