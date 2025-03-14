@@ -33,4 +33,4 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 <p>For other inquiries please contact us at malayangbiblia@gmail.com</p>
 <p>Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)</p>
 <p>Permissions beyond the scope of this license may be available at malayangbiblia@gmail.com</p>
-<p>If you are blessed with this ministry, please consider supporting us financially. To know how, please email us at malayangbiblia@gmail.com. Your generous support will help us accomplish our future Bible and other translation projects.</p>
+<p>If you are blessed with this ministry, please consider supporting us financially. To know how, please pop us an email at <a href="mailto:malayangbiblia@gmail.com">malayangbiblia@gmail.com</a>. Your generous support will help us accomplish our future Bible and other translation projects.</p>
