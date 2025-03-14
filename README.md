@@ -21,6 +21,7 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 <li>AMB faithfully translates into Tagalog all transliterated words (except for proper names) that often hides the meaning of the word. Transliteration is the practice in translation where a word from the source text is translated to another language in such a way as to make the newly translated word sound very similar to the original word. Examples: Πέτρος (means rock) sounds like "Petros", and the English transliteration is Peter, in Tagalog, Pedro; but the true Tagalog word is "Bato." Another one is βάπτισμα (means "immersion") which sounds like "baptisma", and the transliteration in English is "Baptism," in Tagalog, "Bautismo." But to translate this faithfully, it should say, "lublob."</li><br>
 
 <li>AMB uses words that shows respect for elders or people in authority just like what a good Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."</li>
+
  <br>
 <h3>Special Thanks to:</h3>
 <ol>
@@ -32,3 +33,4 @@ AMB started in 2017 whose vision is to provide a fresh Tagalog translation of th
 <p>For other inquiries please contact us at malayangbiblia@gmail.com</p>
 <p>Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)</p>
 <p>Permissions beyond the scope of this license may be available at malayangbiblia@gmail.com</p>
+<p>If you are blessed with this ministry, please consider supporting us financially. To know how, please email us at malayangbiblia@gmail.com. Your generous support will help us accomplish our future Bible and other translation projects.</p>
