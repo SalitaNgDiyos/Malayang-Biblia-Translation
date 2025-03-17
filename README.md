@@ -14,7 +14,7 @@ Ang Malayang Biblia (AMB) started in 2017 whose vision is to provide a fresh Tag
 
 <li>Pronouns referring to God or Christ, and words refering to spiritual concepts (i.e., Ang Batas, Buhay, Kamatayan, Araw ng Pamamahinga, Lublob ng Pagsisisi etc.) which otherwise could not be understood in their proper context, have their initial letters in CAPS.</li><br>
 
-<li>Places in the Bible are translated in English not Tagalog for practical and educational purposes. In order that the student of the word can learn more about a place in the Scriptures by the use of existing Bible dictionaries or Bible Maps which are widely published in the English language.</li><br>
+<li>Places in the Bible are translated in English not Tagalog for practical and academic purposes. In order that the student of the word can learn more about a place in the Scriptures by the use of existing Bible dictionaries or Bible Maps which are widely published in the English language.</li><br>
 
 <li>AMB faithfully translates into Tagalog all transliterated words (except for proper names) that often hides the meaning of the word. Transliteration is the practice in translation where a word from the source text is translated to another language in such a way as to make the newly translated word sound very similar to the original word. Examples: Πέτρος (means rock) sounds like "Petros", and the English transliteration is Peter, in Tagalog, Pedro; but the true Tagalog word is "Bato." Another one is βάπτισμα (means "immersion") which sounds like "baptisma", and the transliteration in English is "Baptism," in Tagalog, "Bautismo." But to translate this faithfully, it should say, "lublob."</li><br>
 
