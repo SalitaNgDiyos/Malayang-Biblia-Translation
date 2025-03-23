@@ -24,7 +24,7 @@ Ang Malayang Biblia (AMB) started in 2017 whose vision is to provide a fresh Tag
 
 <li>AMB uses words that show respect for elders or people in authority just like what a good Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person pronoun and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."</li><br>
 
-<li>AMB is on Github - the largest opensource platform in the world. This means that NOT ONE person, or institution has exclusive ownership or rights on the Translation. Qualified translators can potentially modify or add changes to the text as they see fit via Github for the edification of the Filipino Church.</li><br>
+<li>AMB is on Github and can be seen by all. Qualified translators can potentially modify or add changes to the text as they see fit via Github for the edification of the Filipino Church.</li><br>
 
  <br>
 <h3>Special Thanks to:</h3>
