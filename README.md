@@ -18,11 +18,13 @@ Ang Malayang Biblia (AMB) started in 2017 whose vision is to provide a fresh Tag
 
 <li>AMB faithfully translates into Tagalog all transliterated words (except for proper names) that often hides the meaning of the word. Transliteration is the practice in translation where a word from the source text is translated to another language in such a way as to make the newly translated word sound very similar to the original word. Examples: Πέτρος (means rock) sounds like "Petros", and the English transliteration is Peter, in Tagalog, Pedro; but the literal Tagalog translation is "Bato." Another one is βάπτισμα (means "immersion") which sounds like "baptisma", and the transliteration in English is "Baptism," in Tagalog, "Bautismo." But to translate this faithfully in Tagalog, it should say, "lublob."</li><br>
 
-<li>Just like how the Koine Greek in Biblical times was used as the language of the masses, AMB uses the same approach to its translation by making its language like the language of the common people meaning, more conversational and up to date. </li><br>
+<li>Just like how the Koine Greek in Biblical times was used as the language of the masses, AMB uses the same approach to its translation by making its language like the language of the common people meaning, more conversational and up to date. Some of the terms in the Filipino vocabulary that were used in other translations were updated on this translation, especially those terms that were taken from the Spanish vocabulary. Examples are: Iglesia, Obispo, and Diakono. We replaced these old words into: Konggregasyon, Tagapangasiwa, and Lingkod, respectively.</li><br>
 
-<li>Units of measurements of distance, weight, volume, and money currency in Biblical era were translated to modern day equivalence in using the metric system, and into Philippine peso currency, respectively. </li><br>
+<li>Units of measurements of distance, weight, volume, and money currency found in the Bible were translated to modern day equivalence using the metric system, and the Philippine peso currency, respectively. </li><br>
 
 <li>AMB uses words that show respect for elders or people in authority just like what a good Filipino would do. This is done by addressing such people with the plural form instead of the singular 2nd person pronoun and adding the term "po" and "opo". Examples: "niyo" instead of "mo" or "kayo po" instead of "ikaw."</li>
+
+<li>AMB is on Github - the largest opensource platform in the world. This means that NOT ONE person, or institution has exclusive ownership or rights on the Translation. Qualified translators can potentially modify or add changes to the text as they see fit via Github for the edification of the Filipino Church.</li><br>
 
  <br>
 <h3>Special Thanks to:</h3>
