@@ -2,7 +2,7 @@ Ang Malayang Biblia (AMB) started in 2017 whose vision is to provide a fresh Tag
 
  Ang Malayang Biblia is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://github.com/openbibles/Malayang-Biblia-Translation. Permissions beyond the scope of this license may be obtained by contacting this email: malayangbiblia@gmail.com
 
-<h3>AMB Features:</h3>
+<h3>What's Unique about AMB?</h3>
 <ol>
 <li>The only New Testament Tagalog Translation that is mostly based on the traditional Text, or Textus Receptus, taken from the Byzantine/Majority Text Family, which is universally used by the Church from the 2nd till the early 19th century AD, and is the text used by the King James Bible translators in 1611. The rest of the Filipino translations rely heavily on codices Siniaticus, Alexandrian, and Vaticanus.</li><br>
 
