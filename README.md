@@ -6,7 +6,7 @@ Ang Malayang Biblia (AMB) started in 2017 whose vision is to provide a fresh Tag
 <ol>
 <li>The only New Testament Tagalog Translation that is mostly based on the traditional Text, or Textus Receptus, taken from the Byzantine/Majority Text Family, which is universally used by the Church from the 2nd till the early 19th century AD, and is the text used by the King James Bible translators in 1611. The rest of the Filipino translations rely heavily on codices Siniaticus, Alexandrian, and Vaticanus.</li><br>
 
-<li>Every Greek parsing from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.</li><br>
+<li>Every Strong's Number and Greek parsing from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.</li><br>
 
 <li>AMB has an option that includes Strongs Definition and Greek parsing of every Tagalog word or phrase which can be shown using MySword (https://mysword.info/) for Android or theWord (https://www.theword.net/) for PC.</li><br>
 
